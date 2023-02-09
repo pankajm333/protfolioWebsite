@@ -670,7 +670,7 @@ Testimonial Swiper Queries Section
 }
 
 .swiper-client-msg p::after {
-  /* display: inline-block */
+  /* display: inline-block ; */
   content: "\f10e";
   position: absolute;
   bottom: 0%;
